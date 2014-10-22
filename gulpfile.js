@@ -1,8 +1,3 @@
-// https://github.com/yeoman/generator-gulp-webapp
-// https://www.npmjs.org/package/gulp-rev (no manifest? https://github.com/bustardcelly/gulp-rev-append)
-// npm uninstall gulp-rev --save-dev
-// http://travismaynard.com/writing/getting-started-with-gulp
-
 var gulp    = require ('gulp'),
     jshint  = require ('gulp-jshint'),
     sass    = require('gulp-sass'),
